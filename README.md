@@ -12,8 +12,11 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
+  <img height="120em" align="right" alt="Rafa-yoda" src="https://media.giphy.com/media/5gu29dfHGc3kqPgwcR/giphy.gif?cid=790b761107cbde2a34ee0ead1fc7941aa0a365ee1dc13b09&rid=giphy.gif&ct=g">
 </div>
+  
+  ##
+  ![Snake animation](https://github.com/AnaBeatrizTavaresMalheiro/AnaBeatrizTavaresMalheiro/blob/output/github-contribution-grid-snake.svg)
  
 
 
