@@ -1,5 +1,7 @@
 ### Olá! Eu sou a Ana Beatriz, seja-bem vindo ao meu repositório ✨
 *Hello! It's me, Ana Beatriz 😄 Welcome to my repository ✨*
+<a href="https://https://www.linkedin.com/in/ana-beatriz-tavares-malheiro-095539227" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:anabia.malheiro@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 ##
 
 <div>
@@ -8,22 +10,22 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeatrizTavaresMalheiro&layout=compact&langs_count=7&count_private=true&theme=dracula"/>
 </div>
 
- <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img height="130em" align="right" alt="Ana-Gif" src="https://media.giphy.com/media/5gu29dfHGc3kqPgwcR/giphy.gif?cid=790b761107cbde2a34ee0ead1fc7941aa0a365ee1dc13b09&rid=giphy.gif&ct=g">
 </div>
   
   ##
   
-  <div> 
-  <a href="https://https://www.linkedin.com/in/ana-beatriz-tavares-malheiro-095539227" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+<div>
   ![Snake animation](https://github.com/AnaBeatrizTavaresMalheiro/AnaBeatrizTavaresMalheiro/blob/output/github-contribution-grid-snake.svg)
-  </div> 
+  
+</div> 
  
 
 
