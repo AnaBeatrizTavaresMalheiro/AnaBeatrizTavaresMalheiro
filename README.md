@@ -24,7 +24,6 @@
  
 <div>
   ![Snake animation](https://github.com/AnaBeatrizTavaresMalheiro/AnaBeatrizTavaresMalheiro/blob/output/github-contribution-grid-snake.svg)
-  
 </div> 
  
 
