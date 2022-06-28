@@ -15,15 +15,13 @@
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  
-  
-  
-  <img height="130em" align="right" alt="Rafa-yoda" src="https://media.giphy.com/media/5gu29dfHGc3kqPgwcR/giphy.gif?cid=790b761107cbde2a34ee0ead1fc7941aa0a365ee1dc13b09&rid=giphy.gif&ct=g">
+  <img height="130em" align="right" alt="Ana-Gif" src="https://media.giphy.com/media/5gu29dfHGc3kqPgwcR/giphy.gif?cid=790b761107cbde2a34ee0ead1fc7941aa0a365ee1dc13b09&rid=giphy.gif&ct=g">
 </div>
+  
+  ##
+  
   <div> 
   <a href="https://https://www.linkedin.com/in/ana-beatriz-tavares-malheiro-095539227" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ##
   ![Snake animation](https://github.com/AnaBeatrizTavaresMalheiro/AnaBeatrizTavaresMalheiro/blob/output/github-contribution-grid-snake.svg)
   </div> 
  
